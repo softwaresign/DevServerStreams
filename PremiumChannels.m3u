@@ -115,9 +115,6 @@ https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies", Studio One
-https://cdn-1.pishow.tv/live/276/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png",ZEE CINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
@@ -256,48 +253,10 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ppcjnzr/1000150676.png", TV9 News
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDRMCfMF/1000148271.png", 6TV
-https://cdn-1.pishow.tv/live/232/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hR659PQc/1000148257.png",10 Tv
-https://cdn-1.pishow.tv/live/391/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png", V6 News
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s93kCDDH/1000153242.png",I News
-https://cdn-1.pishow.tv/live/411/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFmqvdDZ/1000153240.png", HMTV
-https://cdn-1.pishow.tv/live/280/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwwd03Px/1000159436.png", 99 TV
-https://cdn-1.pishow.tv/live/1211/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png", Andhra Jothi
-https://cdn-1.pishow.tv/live/407/master.m3u8
-
 =================Other Channels=============================
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Indian",ZEE ACTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Indian",ZEE BOLLYWOOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Indian", ZEE ANOML CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png", ZEE TALKIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" ,Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -308,8 +267,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1VhdUFSHUGQpMh2n7dNnSk2pT5O818XeFHej-DhDpp9I4dkik8y_Ko9Z&s=10" group-title="Documentary", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-logo="https://i.imgur.com/P0IIqZn.png" group-title="Religious",Aastha Telugu SD
-https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://i.imgur.com/tmMEsEe.png" group-title="General",DD Saptagiri SD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Documentary",History TV18 HD
