@@ -124,10 +124,6 @@ https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1
 
 #EXTINF:-1 , METRO TV
 https://mercury.streambridge.link:8042/telugu/metrotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Sakshi TV
-https://cdn-1.pishow.tv/live/409/master.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mahaa Bhakthi
-https://keralive.com/yupp/tv.php?c=mahaa-bhakti&e=.m3u8|Referer=https://keralive.com/
 ---logosys.cloud---
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", bcn channel
 http://streamcp.logosys.cloud:1935/bcnchannel/bcnchannel/chunklist_w1043016966.m3u8
