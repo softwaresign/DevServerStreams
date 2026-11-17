@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test Success
 https://github.com/softwaresign/FocusOn/raw/refs/heads/main/videos/testVideo.mp4
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test A
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",SQL DBA 3 years experience interview
 https://github.com/softwaresign/MockInterviewRecordings/raw/refs/heads/main/SQL%20DBA%203%20years%20experience%20interview.mkv
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test b
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", SQL Server DBA Mock interview for 3 years experience
 https://github.com/softwaresign/MockInterviewRecordings/raw/refs/heads/main/SQL%20Server%20DBA%20Mock%20interview%20for%203%20years%20experience.mkv
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test C
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", SQL_DBA_3_years_experience_interview
 https://github.com/softwaresign/MockInterviewRecordings/raw/refs/heads/main/SQL_DBA_3_years_experience_interview.mkv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
