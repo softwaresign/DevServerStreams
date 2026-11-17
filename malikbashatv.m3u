@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test 1
+https://github.com/softwaresign/FocusOn/blob/main/videos/testVideo.mp4
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test 2
+https://github.com/softwaresign/FocusOn/raw/refs/heads/main/videos/testVideo.mp4
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Test 3
+https://raw.githubusercontent.com/softwaresign/FocusOn/raw/refs/heads/main/videos/testVideo.mp4
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png", Zee Telugu
